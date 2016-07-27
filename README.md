@@ -1,5 +1,5 @@
-# cocosSocketForIPV6
-The socket framework base on cocos_socket is suitable for IPV6-Only
+# cocosSocketForIPV6 In iOS
+The socket framework base on cocos_socket is suitable for IPV6-Only.This framework is used for the iOS not for the Android
 
 ### How to work on IPV6-Only Environment
 
